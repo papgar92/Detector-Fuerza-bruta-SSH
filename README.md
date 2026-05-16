@@ -5,7 +5,7 @@
 ![Type](https://img.shields.io/badge/Type-Detection%20Script-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-Herramienta ligera de Python que analiza los registros de autenticación SSH (sample_logs/auth.log) para detectar ataques de fuerza bruta, identificar cuentas afectadas y señalar posibles vulnerabilidades, sin necesidad de un SIEM.
+Herramienta ligera de Python que analiza los registros de autenticación SSH ([auth.log](sample_logs/auth.log)) para detectar ataques de fuerza bruta, identificar cuentas afectadas y señalar posibles vulnerabilidades, sin necesidad de un SIEM.
 
 ---
 
