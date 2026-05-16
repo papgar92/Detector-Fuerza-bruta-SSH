@@ -109,8 +109,8 @@ Salida:
   ⚠ SUCCESSFUL LOGIN DETECTED — POSSIBLE COMPROMISE
 ...
 ```
----
 
+---
 ## 🔧 Opciones de uso
 
 ```bash
