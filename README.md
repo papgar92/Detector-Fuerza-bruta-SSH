@@ -51,10 +51,11 @@ detector-ssh-fuerza-bruta/
 - Sin dependencias externas: solo la biblioteca estándar
 
 ---
+<!-- 
 ## 📸 Output Ejemplo
 
 ![Report Output](screenshots/SSH_Brute_Force_Detection_Report.png)
-
+--!>
 
 ## 🚀 Guía rapida
 
@@ -108,7 +109,7 @@ Salida:
   ⚠ SUCCESSFUL LOGIN DETECTED — POSSIBLE COMPROMISE
 ...
 ```
-
+![Report Output](screenshots/SSH_Brute_Force_Detection_Report.png)
 ---
 
 ## 🔧 Opciones de uso
