@@ -109,7 +109,6 @@ Salida:
   ⚠ SUCCESSFUL LOGIN DETECTED — POSSIBLE COMPROMISE
 ...
 ```
-![Report Output](screenshots/SSH_Brute_Force_Detection_Report.png)
 ---
 
 ## 🔧 Opciones de uso
